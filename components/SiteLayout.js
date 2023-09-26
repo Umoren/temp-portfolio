@@ -19,10 +19,10 @@ export default function Layout({ children }) {
 
             <p className="my-4 text-normal text-letter md:w-4/5">
 
-              <span className="text-bold text-normal text-letter">I'm a Front End Engineer</span> with one year of experience and strong fundamentals in Front End technologies.
+              <span className="text-bold text-normal text-letter">I am a Front End Engineer</span> with one year of experience and strong fundamentals in Front End technologies.
             </p>
 <p className="my-4 text-normal text-letter md:w-4/5">
-             I have built projects throughout my developer journey and i'm passionately curious for more knowledge, i look forward to contributing to open source to advance my knowledge and skills as well share knowledge. </p>
+             I have built projects throughout my developer journey and i am passionately curious for more knowledge, i look forward to contributing to open source to advance my knowledge and skills as well share knowledge. </p>
 
            
 
